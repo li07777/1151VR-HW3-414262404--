@@ -85,7 +85,7 @@ Enjoy your meal!
 
 測試項目包含畫面顯示、觸控操作、輪盤旋轉、結果視窗與音效。
 
-**手機測試結果：<img width="2622" height="1206" alt="S__136953859" src="https://github.com/user-attachments/assets/36c96213-7b13-4705-946c-e59f5b5d2268" />
+手機測試結果：<img width="2622" height="1206" alt="S__136953859" src="https://github.com/user-attachments/assets/36c96213-7b13-4705-946c-e59f5b5d2268" />
 
 
 ## 四、製作流程
@@ -126,36 +126,34 @@ Enjoy your meal!
 
 ## 五、專案截圖
 
-> 請將實際截圖放進 GitHub Repository 的 `Screenshots` 資料夾，並依下列檔名儲存。原始文件中的 `image` 是圖片預留位置，圖片檔並未包含在本 README 中。
-
 ### 圖一：Unity 專案場景
 
-[圖一：Unity 專案場景](<img width="600" height="1292" alt="螢幕擷取畫面 2026-10-19 193243" src="https://github.com/user-attachments/assets/9c85c63f-5b03-4402-aaf5-bb20c86a128f" />
-)
+<img width="600" height="1292" alt="螢幕擷取畫面 2026-10-19 193243" src="https://github.com/user-attachments/assets/9c85c63f-5b03-4402-aaf5-bb20c86a128f" />
+
 
 ### 圖二、三：輪盤控制程式
 
 
-[圖二：輪盤控制程式（上）](<img width="600" height="1292" alt="螢幕擷取畫面 2026-10-19 193243" src="https://github.com/user-attachments/assets/e30ae1f1-014c-48c5-9790-6215a0434e2d" />
+<img width="600" height="1292" alt="螢幕擷取畫面 2026-10-19 193243" src="https://github.com/user-attachments/assets/e30ae1f1-014c-48c5-9790-6215a0434e2d" />
+<img width="454" height="1402" alt="螢幕擷取畫面 2026-10-19 193306" src="https://github.com/user-attachments/assets/7c071f35-7529-4866-bae3-1d92418007c2" />
 
-[圖三：輪盤控制程式（下）](<img width="454" height="1402" alt="螢幕擷取畫面 2026-10-19 193306" src="https://github.com/user-attachments/assets/7c071f35-7529-4866-bae3-1d92418007c2" />
-)
 
 ### 圖四：抽獎結果畫面
 
-[圖四：抽獎結果畫面](<img width="2880" height="1704" alt="螢幕擷取畫面 2026-10-19 193341" src="https://github.com/user-attachments/assets/d1d277a6-c0c4-4230-8913-f17ab1b6c2be" />
-)
+<img width="2880" height="1704" alt="螢幕擷取畫面 2026-10-19 193341" src="https://github.com/user-attachments/assets/d1d277a6-c0c4-4230-8913-f17ab1b6c2be" />
+
 
 
 ### 圖五：音效設定
 
-[圖五：音效設定](<img width="684" height="666" alt="螢幕擷取畫面 2026-10-19 193435" src="https://github.com/user-attachments/assets/ea89a117-d376-4f4e-be86-f788d6b93566" />
-)
+<img width="684" height="666" alt="螢幕擷取畫面 2026-10-19 193435" src="https://github.com/user-attachments/assets/ea89a117-d376-4f4e-be86-f788d6b93566" />
+
 
 ### 圖六：手機操作測試
 
-[圖六：手機操作測試](<img width="2622" height="1206" alt="S__136953859" src="https://github.com/user-attachments/assets/ec9a3c99-b9e9-4e0a-bebc-9db718e8b4ec" />
-)
+<img width="2622" height="1206" alt="S__136953859" src="https://github.com/user-attachments/assets/a80532ff-10f4-42f8-bd90-c046b6ca2998" />
+
+
 
 
 ## 六、GitHub 專案連結

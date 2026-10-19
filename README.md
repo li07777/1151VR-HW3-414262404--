@@ -128,7 +128,7 @@ Enjoy your meal!
 
 ### 圖一：Unity 專案場景
 
-<img width="600" height="1292" alt="螢幕擷取畫面 2026-10-19 193243" src="https://github.com/user-attachments/assets/9c85c63f-5b03-4402-aaf5-bb20c86a128f" />
+<img width="2880" height="1704" alt="螢幕擷取畫面 2026-10-19 193206" src="https://github.com/user-attachments/assets/49aeebe7-7912-4809-9485-7ec045f336a1" />
 
 
 ### 圖二、三：輪盤控制程式
@@ -162,7 +162,7 @@ Enjoy your meal!
 
 ## 七、YouTube 遊戲展示影片
 
-**影片網址：** [Unity HW3 遊戲展示](https://youtu.be/bLPqvhnYChM)
+**影片網址：** [1151VR-HW3-414262404-李姍霓](https://youtu.be/bLPqvhnYChM)
 
 ## 八、製作心得
 

@@ -85,9 +85,8 @@ Enjoy your meal!
 
 測試項目包含畫面顯示、觸控操作、輪盤旋轉、結果視窗與音效。
 
-**手機測試結果：** 請依實際測試情況補充，參見下方「圖六：手機操作測試」。
+**手機測試結果：<img width="2622" height="1206" alt="S__136953859" src="https://github.com/user-attachments/assets/36c96213-7b13-4705-946c-e59f5b5d2268" />
 
-> 注意：Unity Remote 5 是將 Unity Editor 畫面串流至手機測試，並不等於已正式安裝 iOS App。
 
 ## 四、製作流程
 
@@ -131,44 +130,33 @@ Enjoy your meal!
 
 ### 圖一：Unity 專案場景
 
-<!-- 圖片上傳後，移除下一行的註解符號即可顯示：
-![圖一：Unity 專案場景](Screenshots/scene.png)
--->
-
-**待補：** `Screenshots/scene.png`
+[圖一：Unity 專案場景](<img width="600" height="1292" alt="螢幕擷取畫面 2026-10-19 193243" src="https://github.com/user-attachments/assets/9c85c63f-5b03-4402-aaf5-bb20c86a128f" />
+)
 
 ### 圖二、三：輪盤控制程式
 
-<!--
-![圖二：輪盤控制程式（上）](Screenshots/script-1.png)
-![圖三：輪盤控制程式（下）](Screenshots/script-2.png)
--->
 
-**待補：** `Screenshots/script-1.png`、`Screenshots/script-2.png`
+[圖二：輪盤控制程式（上）](<img width="600" height="1292" alt="螢幕擷取畫面 2026-10-19 193243" src="https://github.com/user-attachments/assets/e30ae1f1-014c-48c5-9790-6215a0434e2d" />
+
+[圖三：輪盤控制程式（下）](<img width="454" height="1402" alt="螢幕擷取畫面 2026-10-19 193306" src="https://github.com/user-attachments/assets/7c071f35-7529-4866-bae3-1d92418007c2" />
+)
 
 ### 圖四：抽獎結果畫面
 
-<!--
-![圖四：抽獎結果畫面](Screenshots/result.png)
--->
+[圖四：抽獎結果畫面](<img width="2880" height="1704" alt="螢幕擷取畫面 2026-10-19 193341" src="https://github.com/user-attachments/assets/d1d277a6-c0c4-4230-8913-f17ab1b6c2be" />
+)
 
-**待補：** `Screenshots/result.png`
 
 ### 圖五：音效設定
 
-<!--
-![圖五：音效設定](Screenshots/audio.png)
--->
-
-**待補：** `Screenshots/audio.png`
+[圖五：音效設定](<img width="684" height="666" alt="螢幕擷取畫面 2026-10-19 193435" src="https://github.com/user-attachments/assets/ea89a117-d376-4f4e-be86-f788d6b93566" />
+)
 
 ### 圖六：手機操作測試
 
-<!--
-![圖六：手機操作測試](Screenshots/iphone.png)
--->
+[圖六：手機操作測試](<img width="2622" height="1206" alt="S__136953859" src="https://github.com/user-attachments/assets/ec9a3c99-b9e9-4e0a-bebc-9db718e8b4ec" />
+)
 
-**待補：** `Screenshots/iphone.png`
 
 ## 六、GitHub 專案連結
 
